@@ -1,0 +1,107 @@
+{
+  "products": [
+    {
+      "id": "591f2715-01c6-40b1-8680-4c4e29f1ff0b",
+      "name": "Duncan Shepard",
+      "price": "62",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6bd7f.appspot.com/o/image%2Fdefault-11.jpg?alt=media&token=dbc3cd98-681a-4c46-9d29-08ea5f99c12f",
+      "cateId": "7Cn9eK_",
+      "quantity": "988",
+      "describe": "Id minim excepteur u"
+    },
+    {
+      "id": "31c84f3c-91dc-48cf-bcc7-b7d0b69e4856",
+      "name": "Mannix Riddle",
+      "price": "76",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6bd7f.appspot.com/o/image%2Fdefault-7.jpg?alt=media&token=23fa986f-d5a9-47d4-b825-1cd018eca0c8",
+      "cateId": "5c5zPNZ",
+      "quantity": "962",
+      "describe": "Ipsam ducimus non n"
+    },
+    {
+      "id": "4f3cdfd9-5abe-41d8-9c0f-0de3ac6b0239",
+      "name": "Tallulah Barnes",
+      "price": "286",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6bd7f.appspot.com/o/image%2Fdefault-1.jpg?alt=media&token=38bc48f6-9506-4b1f-a57a-50dec9c5de2d",
+      "cateId": "7Cn9eK_",
+      "quantity": "257",
+      "describe": "Vitae dolor dicta re"
+    },
+    {
+      "id": "f96c97a2-c1e2-42a3-a026-e86da1661354",
+      "name": "Mason Burt",
+      "price": "738",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6bd7f.appspot.com/o/image%2Fdefault-4.jpg?alt=media&token=d4f69750-1782-47d3-87fb-15636aae9218",
+      "cateId": "7Cn9eK_",
+      "quantity": "404",
+      "describe": "Omnis commodo nostru"
+    },
+    {
+      "id": "9153f02f-d36c-49af-99af-f1e54537861f",
+      "name": "Anthony Young",
+      "price": "790",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6bd7f.appspot.com/o/image%2Fdefault-6.jpg?alt=media&token=6457ee7d-e0a0-46ee-8d35-99b147000d94",
+      "cateId": "7Cn9eK_",
+      "quantity": "105",
+      "describe": "Nostrum corporis rem"
+    },
+    {
+      "id": "2f82c1e6-bd9f-49b3-a390-0348082288be",
+      "name": "Erich Gardner12345",
+      "price": "432",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6bd7f.appspot.com/o/image%2Fdefault-10.jpg?alt=media&token=c26f4f2a-4de6-4f44-8d88-4b4867c5fbd8",
+      "cateId": "7Cn9eK_",
+      "quantity": "819",
+      "describe": "Ut voluptatem molest432"
+    },
+    {
+      "id": "85266aad-d819-4aef-943f-da024a9b489a",
+      "name": "Lê Duy Sơn",
+      "price": "22",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6bd7f.appspot.com/o/image%2Fdefault-6.jpg?alt=media&token=ea183846-cee1-483a-9a19-e2dcb189b689",
+      "cateId": "5c5zPNZ",
+      "quantity": "739",
+      "describe": "a"
+    },
+    {
+      "id": "c3f9bf98-8bc8-4faf-a9d4-a9036d11cf3c",
+      "name": "Cyrus Spears",
+      "price": "899",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6bd7f.appspot.com/o/image%2Fdefault-7.jpg?alt=media&token=4d3a489b-2545-470e-b278-5157785ce64a",
+      "cateId": "XH29RvM",
+      "quantity": "463",
+      "describe": "Adipisicing fuga Ne"
+    },
+    {
+      "id": "a9b7ea43-4722-454b-83d2-74fcf0477333",
+      "name": "Cyrus Spears",
+      "price": "899",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6bd7f.appspot.com/o/image%2Fdefault-7.jpg?alt=media&token=4d3a489b-2545-470e-b278-5157785ce64a",
+      "cateId": "XH29RvM",
+      "quantity": "463",
+      "describe": "Adipisicing fuga Ne"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Conan Collier321",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6bd7f.appspot.com/o/image%2Fdefault-5.jpg?alt=media&token=82b0d6b4-9823-4db0-b5c8-c9c68d772e53",
+      "id": "7Cn9eK_"
+    },
+    {
+      "name": "Zoe Goodwin",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6bd7f.appspot.com/o/image%2Fdefault-2.jpg?alt=media&token=27d03bc6-ba97-4eec-b541-a03c17a43cac",
+      "id": "5c5zPNZ"
+    },
+    {
+      "name": "Breanna Forbes",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6bd7f.appspot.com/o/image%2Fdefault-2.jpg?alt=media&token=27d03bc6-ba97-4eec-b541-a03c17a43cac",
+      "id": "XH29RvM"
+    },
+    {
+      "id": "06c9a2a7-324d-4a1f-b1d9-435313899d2a",
+      "name": "Zeph Tyler",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6bd7f.appspot.com/o/image%2Fdefault-2.jpg?alt=media&token=27d03bc6-ba97-4eec-b541-a03c17a43cac"
+    }
+  ]
+}
